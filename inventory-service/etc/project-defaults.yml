@@ -8,4 +8,4 @@ swarm:
         password: jboss
 store:
   service:
-    url: http://store-service-user3-coolstore.apps.3ba9.openshift.opentlc.com
+    url: http://store-service-user3-coolstore.apps.3dd1.example.opentlc.com
